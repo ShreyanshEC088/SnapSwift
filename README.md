@@ -1,9 +1,11 @@
 # SnapSwift - Chat Application 
 
+![Screenshot 2024-02-10 160829](https://github.com/ShreyanshEC088/SnapSwift/assets/114645979/88e6a7d3-09e5-4968-ad00-14481a9b1e92)
 
-![login page](./images/snappy_login.png)
+![Screenshot 2024-02-10 160819](https://github.com/ShreyanshEC088/SnapSwift/assets/114645979/6426407a-b6fa-47b2-98ad-ee530458f32b)
 
-![home page](./images/snappy.png)
+![Screenshot 2024-02-10 161445](https://github.com/ShreyanshEC088/SnapSwift/assets/114645979/da9d1fb3-cc3f-4593-a21d-c897d3f73ecc)
+
 
 ## Installation Guide
 
